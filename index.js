@@ -1,5 +1,3 @@
-
-
 $(function () {
     let headerElem = $('header');
     let logo = $('#logo');
